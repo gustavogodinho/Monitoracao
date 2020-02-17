@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Monitoracao": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
